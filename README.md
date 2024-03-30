@@ -1,5 +1,5 @@
 -  Hi, I’m @soty2
--  I’m currently learning assembly and compyter architecture.
+-  I’m currently learning assembly and computer architecture.
 -  I’m looking to collaborate on a front end project for a garden that is interesting in seeling product. 
 -  To reach me, private message me. 
 - ⚡ Fun fact: Remember when is the lowest form of conversation.
